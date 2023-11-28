@@ -48,7 +48,7 @@ const Login = (): JSX.Element => {
             <span className="text-white text-xs">
               © 2023 Reqo, Inc.
             </span>
-            <Link href="/reset-password" passHref>
+            <Link href="/ResetPassword">
               <span className="font-normal text-sm text-white">Forgot password?</span>
             </Link>
           </div>
